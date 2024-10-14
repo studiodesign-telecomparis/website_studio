@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Studio Design - Telecom Paris</title>
+    <link href="https://studiodesign.telecom-paris.fr/feed.xml" rel="self" />
+    <link href="https://studiodesign.telecom-paris.fr" />
+    <updated>2024-10-11T13:04:00+02:00</updated>
+    <author>
+        <name>Studio Design Manager</name>
+    </author>
+    <id>https://studiodesign.telecom-paris.fr</id>
+
+    <entry>
+        <title>IPP&#x27;s Innovation Lab</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/ipps-innovation-lab.html"/>
+        <id>https://studiodesign.telecom-paris.fr/ipps-innovation-lab.html</id>
+            <category term="Entrepreneurship-Research"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-10T16:31:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    People in charge Delphine Marcillac (project manager for the "innovation and entrepreneurship" department of IPParis) The work group involves the designers and project&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>People in charge</h3>
+<p>Delphine Marcillac (project manager for the <a href="https://www.ip-paris.fr/innovation/innovation-et-entrepreneuriat"><strong>"innovation and entrepreneurship" department of IPParis</strong></a>)</p>
+<h3>Participants</h3>
+<p>The work group involves the designers and project manager of IPParis, the designers and manager of the <a href="https://www.polytechnique.edu/novationcenter"><strong>X-novation Center of Polytechnique</strong></a> and the research engineer from Studio Design of Telecom Paris</p>
+<h3>Role and actions</h3>
+<p>The work group meets every ~2 months, during workshops, to provide a design expertise to researchers creating products and companies based on their research contributions</p>
+<h3>Implication of the Studio Design</h3>
+<p>Support to clarify the positioning (value proposition, user-centered design aspects) of the product, design thinking, documentation</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IPP&#x27;s GT2E</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/ipps-gt2e.html"/>
+        <id>https://studiodesign.telecom-paris.fr/ipps-gt2e.html</id>
+            <category term="Entrepreneurship-Students"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-10T16:28:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    People in charge a a a a
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>People in charge</h3>
+<p>a</p>
+<h3>Participants</h3>
+<p>a</p>
+<h3>Role and actions</h3>
+<p>a</p>
+<h3>Implication of the Studio Design</h3>
+<p>a</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>_events_template</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-4.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-4.html</id>
+            <category term="Templates"/>
+            <category term="Events"/>
+
+        <updated>2024-10-10T15:41:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Presentation - - - -
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Presentation</h3>
+<p>-</p>
+<h3>Organizers</h3>
+<p>-</p>
+<h3>Participants and attendance</h3>
+<p>-</p>
+<h3>Implication of the Studio Design</h3>
+<p>-</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>_project_template</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/_project_template.html"/>
+        <id>https://studiodesign.telecom-paris.fr/_project_template.html</id>
+            <category term="Templates"/>
+            <category term="ProjectsStudents"/>
+            <category term="ProjectsResearch"/>
+
+        <updated>2024-10-09T22:27:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Framing : what are we working on and what encouraged us doing so ? the general theme --- explicit formulation of the disciplinary&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Framing : what are we working on and what encouraged us doing so ?</h3>
+<ul>
+<li><strong>the general theme</strong> --- explicit formulation of the disciplinary field in which our work/contribution will take place</li>
+<li><strong>the context </strong>--- a phenomenon or a situation that is interesting for us, situated in time and space</li>
+<li>why we think it's an interesting topic ?</li>
+</ul>
+<div> </div>
+<h3>Problem statement / Challenge : what is not working as we think it should ?</h3>
+<ul>
+<li>how things <strong>should work</strong> ? what knowledge would be <strong>interesting to have</strong> ?</li>
+<li><strong>description </strong>of the problem, or the missing knowledge, and how it showed up<br>[NB : <em>may need a study to validate the need with <a href="https://www.nngroup.com/articles/research-methods-glossary/"><strong>methods like these</strong></a></em>]</li>
+<li><strong>the motivation</strong> --- why solving that is <strong>important</strong> ?</li>
+</ul>
+<div> </div>
+<h3>Bibliography : what have already been done, and what there's still to do ?</h3>
+<ul>
+<li>very short introduction to the <strong>school of thought</strong> / <strong>community of practice</strong> in which our contribution will take place</li>
+<li>who<strong> worked on some aspects of the problem we've identified</strong> ? How ? What was their goal ? What did they manage to achieve ? What did they miss ?<br>[NB : <em>describe these works regarding several aspects or "dimensions", on which you'll be able to compare these past contributions. That process builds up what we call a "design space"</em>]<br>[NB : <em>find a balance between presenting the most recent works, the "state-of-the-art", and the most important past contributions, the "seminal works"</em>]</li>
+</ul>
+<div> </div>
+<h3>Position statement : how do we identify the work we're doing, compared to what has already been done ?</h3>
+<ul>
+<li><strong>the position</strong> --- what part of the problem we want to address / act on ? what specific part of the "design space" we want to explore (compared to the works presented in the bibliography) ? what is the bad effect we want to counter ? or the good effect we want to foster ? or the knowledge we want to contribute to ?</li>
+<li><strong>the target</strong> --- what people / users are concerned ?</li>
+</ul>
+<div> </div>
+<h3>Research question : what are we aiming to ?</h3>
+<ul>
+<li><strong>a precise question</strong> that we want to answer (all the rest of our work will tend to answer that question)</li>
+<li><strong>the hypotheses</strong> --- what we expect, given what we already know from the litterature</li>
+</ul>
+<div> </div>
+<h3>Design</h3>
+<ul>
+<li>what we <strong>started from </strong>(data, frameworks, existing designs, etc.) ?</li>
+<li>what we <strong>developped to validate / invalidate</strong> our hypothesis ?</li>
+<li>a <strong>grounded explanations for the design choices</strong></li>
+<li>a precise <strong>description of the use / activity</strong><br>[NB : <em>that can be done with storyboards, user journeys, etc.</em>]</li>
+</ul>
+<div> </div>
+<h3>Protocol : how we will validate that we've reached our aim ?</h3>
+<ul>
+<li><strong>what we will measure / analyze </strong>? <strong>how </strong>?<br>[NB : <em>could be quantitative (measuring an effect) or qualitative (describing and catacterizing a phenomenon, observing tendances, identifying patterns), a field study or a lab study, free or controlled, etc.</em>]<br>[NB : <em>the methods and apparatus should be precisely described, including materials, methods, scripts for studies and questions for surveys, etc.</em>]</li>
+</ul>
+<div> </div>
+<h3>Analysis : what have we observed / measured / validated ?</h3>
+<ul>
+<li>a description of the <strong>effects / phenomena</strong> we've observed and measured</li>
+<li>what <strong>conclusion</strong> do we draw from that analysis ?</li>
+<li>how does it answer our research question and validate/invalidate our hypothesis</li>
+</ul>
+<div> </div>
+<h3>Future work : what is the territory for further contributions ?</h3>
+<ul>
+<li><strong>implications for design</strong></li>
+<li><strong>perspectives</strong> to continue our work and provide <strong>additional contributions</strong> (<em>allows to position our contribution more precisely, by explaining what else could be explored/validated, in comparison to what we already explored/validated</em>)</li>
+</ul>
+<div> </div>
+<h3>Discussion</h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>M2 projects supervision - Research in Design</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-11.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-11.html</id>
+            <category term="ProjectsStudents"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-09T11:44:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Teacher(s) Stéphane Safin, Emilien Ghomi, Panos Mavros Recherche en design (ENS) 6 students working on their final year projects, including research articles and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Teacher(s)</h3>
+<p><a href="https://www.telecom-paris.fr/stephane-safin"><strong>Stéphane Safin</strong></a>, <a href="https://emilienghomi.fr/"><strong>Emilien Ghomi</strong></a>, <strong><a href="https://www.telecom-paris.fr/panos-mavros">Panos Mavros</a></strong></p>
+<h3>Institution and classes</h3>
+<p><a href="https://ens-paris-saclay.fr/formations/masters/design">Recherche en design</a> (ENS)</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Number of students</span></h3>
+<p>6 students working on their final year projects, including research articles and the final exhibition</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Duration and period</span></h3>
+<p>~15h or supervision for an article and ~15h for an exhibition<br>~20h for regular project reviews with the whole class</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Presentation of some productions</span></h3>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Sans-titre-2.jpg" data-size="1347x979"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Sans-titre-2-thumbnail.jpg" alt="" width="720" height="523"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175509.jpg" data-size="1192x732"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175509-thumbnail.jpg" alt="" width="720" height="442"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175049.jpg" data-size="1747x927"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175049-thumbnail.jpg" alt="" width="720" height="382"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530175215_0008_D_s.jpg" data-size="1920x903"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530175215_0008_D_s-thumbnail.jpg" alt="" width="720" height="339"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175231.jpg" data-size="942x978"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175231-thumbnail.jpg" alt="" width="720" height="748"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175320.jpg" data-size="1486x553"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/Capture-decran-2024-09-26-175320-thumbnail.jpg" alt="" width="720" height="268"></a></figure>
+</div></div>
+<p>Ludivine Dargaud worked on the concept of customized "object-prosthesis" and the design and manufacture of such artifacts</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Context</strong> : working for an internship at the <a href="https://www.kaplab.be/"><strong>KapLab (CHU Liège)</strong></a>, specialized in using new technologies to help people with disabilities</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Goal </strong>: to study, define, explore and develop participatory design and manufacturing practices to create "object-prostheses", helping people with disabilities to carry out vital tasks, communicate with their relatives, practice sports or just have fun</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Position and proposition </strong>: Ludivine explored various ways to create customized objects, all involving the requesters, to put the sense of care in the center of her work. People involved in such process feel that the objects are made just for them, and with them, responding to their needs in the most pleasant and satisfying possible manner. For her exhibition, she proposes to consider behavioral disorders as "disabilities", and to question how it could look like to create customized "objects-prostheses" to ease such disorders (supporting each other, feeling physical contact when we don't like physical proximity, talking closely without smelling each others' breath, etc.). She used 3d printing, but also moulding and freehand modelling, as well as 3d scanning </span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Validation </strong>: Ludivine defined a design space to study the use and the design work made on objects created to help people with disabilities, taking into account all the ways to involve the requesters and all the technical objects that can be used</span></p>
+<hr>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/louise2.jpg" data-size="579x421"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/louise2-thumbnail.jpg" alt="" width="579" height="421"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/louise1.jpg" data-size="869x527"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/louise1-thumbnail.jpg" alt="" width="720" height="437"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530185105_0038_D.JPG" data-size="1920x1080"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530185105_0038_D-thumbnail.JPG" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530185537_0040_D_s.jpg" data-size="1773x1077"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/21/gallery/DJI_20240530185537_0040_D_s-thumbnail.jpg" alt="" width="720" height="437"></a></figure>
+</div></div>
+<p>Louise Grebel worked on designing interactive devices and software to both help dancers learn hip-hop moves, and augment hip-hop battles with digital means</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Context</strong> : working for an internship at the <strong><a href="https://apps.ismm.ircam.fr/">ISMM team at IRCAM</a></strong>, specialized in designing and creating interactive devices for music and dance</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Goal </strong>: using the <a href="https://apps.ismm.ircam.fr/como"><strong>CoMo system</strong></a> (embedded gesture sensor and classifier) from IRCAM in the context of hip-hop dancing, and adding new features for learning dance moves and augmenting battle events</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Position and proposition </strong>: Louise worked on gesture classification and recognition, as well as continuous feedback and feedforward to communicate dancers if they're reproducing the moves appropriately. For the "battle" case, she tested several situations, for example involving movements from the audience, with which they can manifestate their support to a dancer by moving their arms and therefore controlling the music to play louder. </span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Validation </strong>: Louise first run exploratory studies with questionnaires, exploring the ability of novice dancers to reproduce the hip-hop moves, and their perception of the support provided by her feedforward/feedback system for learning (effort, time, performance, frustration). She then tested several feedback conditions (several audio effects, and a "no feedback" condition). In another study, she tested the "designer" functionalities of her system, where one can record a gesture and associate an audio feedback to it, for later teaching to other dancers using the device.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design Lunches - Digital manufacturing</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-3.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-3.html</id>
+            <category term="Events"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-08T19:22:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Presentation a a a a
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Presentation</h3>
+<p>a</p>
+<h3>Organizers</h3>
+<p>a</p>
+<h3>Participants and attendance</h3>
+<p>a</p>
+<h3>Implication of the Studio Design</h3>
+<p>a</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design Lunches - Generative AI</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-2.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10-2.html</id>
+            <category term="Events"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-08T19:20:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Presentation a a a a
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Presentation</h3>
+<p>a</p>
+<h3>Organizers</h3>
+<p>a</p>
+<h3>Participants and attendance</h3>
+<p>a</p>
+<h3>Implication of the Studio Design</h3>
+<p>a</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IPP&#x27;s Innov&#x27; Night 2024</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-10.html</id>
+            <category term="Events"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-08T19:19:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Presentation a a a a
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Presentation</h3>
+<p>a</p>
+<h3>Organizers</h3>
+<p>a</p>
+<h3>Participants and attendance</h3>
+<p>a</p>
+<h3>Implication of the Studio Design</h3>
+<p>a</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Systemic and collaborative practices in design</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-9.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-9.html</id>
+            <category term="Classes"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-08T19:01:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Teacher(s) Emilien Ghomi To collectivelly design something (interactive devices, practices, games, objects...) that can represent a significant contribution to solving a real-life problem,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Teacher(s)</h3>
+<p><strong><a href="https://emilienghomi.fr/">Emilien Ghomi</a></strong></p>
+<h3>Goals</h3>
+<p>To collectivelly design something (interactive devices, practices, games, objects...) that can represent a significant contribution to solving a real-life problem, integrating the personal and professionnal aspirations of every member of the team</p>
+<h3>Institution and classes</h3>
+<ul>
+<li><a href="https://www.sciencespo.fr/fr/actualites/un-nouveau-master-innovation-transformation-numerique/">Master Innovation et Transformation numérique</a> &amp; <a href="https://www.sciencespo.fr/ecole-management-impact/fr/formations/masters/master-entrepreneuriat-design-innovation/">Master Entrepreneuriat, Design, Innovation</a> (IEP Science Po Paris)</li>
+<li><a href="https://ens-paris-saclay.fr/formations/masters/design">Recherche en design</a> (ENS)</li>
+</ul>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Number of students</span></h3>
+<p>7 from Science Po and 14 from ENS</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Duration</span></h3>
+<p>28h in Science Po and 24h in ENS</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Theoretical and practical grounds</span></h3>
+<p>User-centered design, complexity, contributive practices, research methods, design thinking</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Equipment (<em>rooms, tools, materials, software...</em>)</span></h3>
+<p><strong><a href="https://studiodesign.telecom-paris.fr/">Studio Design</a></strong></p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Knowledge to acquire</span></h3>
+<p>History of interaction design. Introduction to the philosophy and practices of complexity (cybernetics and systemics), embodiment (phenomenology, enaction) and collective intelligence<br><br></p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Skills to develop</span></h3>
+<p>Using the scientific methods, tools and games of design thinking, and the practices of collective intelligence (consent-based decision making, non-violent communication, storytelling, auto-organization...). Drawing a systemic description of everything that is related with the topic of interest of the group, what is important for each member and what they want to design</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Presentation of some productions</span></h3>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-2.jpg" data-size="1998x1218"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-2-thumbnail.jpg" alt="" width="720" height="439"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/IMG-20240119-WA0001.jpg" data-size="1512x2016"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/IMG-20240119-WA0001-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-171646.jpg" data-size="1914x603"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-171646-thumbnail.jpg" alt="" width="720" height="227"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-171733.jpg" data-size="1918x603"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-171733-thumbnail.jpg" alt="" width="720" height="226"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-172455.jpg" data-size="1919x601"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-172455-thumbnail.jpg" alt="" width="720" height="225"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-172726.jpg" data-size="1923x599"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-172726-thumbnail.jpg" alt="" width="720" height="224"></a></figure>
+</div></div>
+<p>Hugues Homascastelnau, Lucie Van, Agathe Renaud, Haibata Diakhite, Alina Sarzhanova, Alexandra Pilipyuk and Karyna Serheieva created a card game about the impact of political choices on the resilience of societies</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Context</strong> : Gaming / playing are very popular. A a time when some people mostly care about the impact of collective decisions on their feeling, but are not really interested on their impact on the ecological threats that can happen, and our abilties to survive them</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Goal </strong>: designing a game that helps discover the impact of political decisions on both personal satisfaction and the ecological situation, by allowing them to actively experience the consequences of a large variety of collective decisions on ecology</span></p>
+<p><strong><span style="font-family: var(--editor-font-family); font-size: inherit;"><span style="color: var(--text-primary-color);">Position </span>and p</span><span style="font-family: var(--editor-font-family); font-size: inherit;">roposit</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;">ion </strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">: the players must gain "natural impact points", representing the positive effects of their decisions on the ecological situation, and "citizen satisfaction" points, representing how people appreciate their choices. They choose a character that has advantages and a drawbacks on their future political decisions. For example, one is appreciated for its ecological orientation but loses points when she/he has to build non-essential industrial or productive facilities. One is taking more money from finance to develop her/his region, but is less appreciated by citizens.  Every turn starts by drawing an "external event" card, before all the players can play their "actions" and "building construction" cards</span></p>
+<p> </p>
+<hr>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-174425.jpg" data-size="1107x1027"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-174425-thumbnail.jpg" alt="" width="720" height="668"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-4.jpg" data-size="872x1263"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-4-thumbnail.jpg" alt="" width="720" height="1043"></a></figure>
+</div></div>
+<p>Dziyana Tarasenka, Marie Butard, Wonjin Park and Carla Barreto proposed several multimodal devices to improve the learning of geographical knowledge</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Context</strong> : active methods participate to improve learning, and the learning of geography is often difficult, especially for children</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Goal </strong>: designing playful sensorial devices for learning</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Position and proposition </strong>: the design choices take into account several issues and challenges, including the fact that children can lack concentration, present a diversity of personal social and cognitive conditions, or the fact that teachers often lack pedagogical or financial means, and are often understaffed. Thee design choices made by the team are informed by a large bibliography on games for education, and what has been done specifically for geography</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Validation </strong>: the team designed a protocol to validate the needs by the teachers, and the use of every device they created</span></p>
+<hr>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-174338.jpg" data-size="917x1227"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Capture-decran-2024-09-26-174338-thumbnail.jpg" alt="" width="720" height="963"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-1.jpg" data-size="1483x815"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-1-thumbnail.jpg" alt="" width="720" height="396"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-2-2.jpg" data-size="1315x930"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-2-2-thumbnail.jpg" alt="" width="720" height="509"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-3.jpg" data-size="619x863"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/17/gallery/Sans-titre-3-thumbnail.jpg" alt="" width="619" height="863"></a></figure>
+</div></div>
+<p>Zoé Buranello, Nina Drouillot, Lucie Urgel, Alexandre Durand and Inès Minfray designed a practice and device to build a conscious relationship to plants</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Context</strong> : on the one hand, students can lack money to buy good food products, as well as occasion to physically connect with other students. On the other hand, plants can be easily grown and are super nutritious for humans, but we often know only some of them, don't know which ones can be eaten and how to grow them</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Goal </strong>: creating a device and practice to help students access good food, by developping their hability to feed with wild plants, and care about them to ensure they'll continue to exist as a sustainable source of food</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Position and proposition </strong>: plants can be collectively harvested and cared in nature. It's entertaining, create social links, and allow us to develop common knowledge. The device proposes to link three complementary activities: acquiring knowledge about plants and specifically the edible ones ; finding, harvesting and growing them in the wild ; developping skills to cook them. The team mostly worked on an apron with multiple internal and external pockets. External pockets allow to transport some compost and seeds from home in order to feed wild plants. Internal pockets allow to harvest some edible plants and bring them back home for cooking. But the team proposed a full set of collective activities and devices, complementary with each other: a contributory and interactive list of recipes to cook with edible plants found in nature, an interactive map to locate edible plants, collective events organized in parternship with schools and universities in Plateau de Saclay, and some features resembling a social network, in order to help people get in touch and join each other when planing harvesting, growing or cooking sessions</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Validation </strong>: the team designed a qualitative study protocol and a usability test to validate their design choices for their first prototype</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ARTEFACT 1st year projects</title>
+        <author>
+            <name>Studio Design Manager</name>
+        </author>
+        <link href="https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-8.html"/>
+        <id>https://studiodesign.telecom-paris.fr/2023-2024-making-physical-representation-of-data-8.html</id>
+            <category term="Classes"/>
+            <category term="2023-2024"/>
+
+        <updated>2024-10-08T19:01:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Teacher(s) Mickaël BOUHIER, Tarik GRABA, Jean LE FEUVRE, Stéphane SAFIN (coaching on the collaborative processes by Julien MOREL and Emilien GHOMI) Discover group&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Teacher(s)</h3>
+<p><strong><a href="https://www.doyoubuzz.com/mickael-bouhier">Mickaël BOUHIER</a></strong>, <a href="https://www.telecom-paris.fr/tarik-graba"><strong>Tarik GRABA</strong></a>, <a href="https://www.telecom-paris.fr/jean-le-feuvre"><strong>Jean LE FEUVRE</strong></a>, <strong><a href="https://www.telecom-paris.fr/stephane-safin">Stéphane SAFIN</a></strong></p>
+<p>(coaching on the collaborative processes by <a href="https://www.telecom-paris.fr/julien-morel"><strong>Julien MOREL</strong></a> and <a href="https://emilienghomi.fr/"><strong>Emilien GHOMI</strong></a>)</p>
+<h3>Goals</h3>
+<p>Discover group work (<em>analysis, design, project management, production, internal and external communication</em>) and collective skill and knowledge acquisition, through the making of autonomous robots communicating wirelessly</p>
+<h3>Institution and classes</h3>
+<p><a href="https://www.telecom-paris.fr/fr/ingenieur/formation">Ingénieur</a> (Telecom)</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Number of students</span></h3>
+<p>All the engineering students in their 1st year</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Duration</span></h3>
+<p>57h + personal work</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Theoretical and practical grounds</span></h3>
+<ul>
+<li><span style="text-decoration: underline;">Technical side</span>: wireless communication, embedded programming, computer vision, automation, digital fabrication</li>
+<li><span style="text-decoration: underline;">Human side</span> : collaboration and project management</li>
+</ul>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Equipment (<em>rooms, tools, materials, software...</em>)</span></h3>
+<p><strong><a href="https://studiodesign.telecom-paris.fr/">Studio Design</a></strong>, <strong><a href="https://fablabtp.wp.imt.fr/nos-machines/">Fablab</a></strong></p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Knowledge to acquire</span></h3>
+<p>All the sessions are practical sessions and all the acquired knowledge is directly related to the skills developped by the students</p>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Skills to develop</span></h3>
+<ul>
+<li><span style="text-decoration: underline;">Technical side</span> : developping programs for a single board computer (<em>raspberry pi</em>), using peripherals (<em>camera, motor control</em>). Controlling a motor from digital signals. Detecting and following visual clues. Establishing a client / server architecture for wifi communication. Designing and implementing a state machine for autonomous target acquisition, orientation and coordination of the robots. Developping a webpage for direct control of the robots. Lasercutting and 3d printing the chassis</li>
+<li><span style="text-decoration: underline;">Human side</span> : analysis and distribution of tasks, team communication, planning and time management, team building, ensuring that every member of the team has acquired all the skills and knowledge related to the project</li>
+</ul>
+<h3><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Presentation of some productions</span></h3>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_5_E.jpg" data-size="1587x2245"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_5_E-thumbnail.jpg" alt="" width="720" height="1019"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_6_D.jpg" data-size="1365x1930"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_6_D-thumbnail.jpg" alt="" width="720" height="1018"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_7_E.jpg" data-size="1163x1644"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/flyer_7_E-thumbnail.jpg" alt="" width="720" height="1018"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023202.JPG" data-size="2022x1518"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023202-thumbnail.JPG" alt="" width="720" height="541"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023204.JPG" data-size="2124x1499"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023204-thumbnail.JPG" alt="" width="720" height="508"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023232.JPG" data-size="2082x1693"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023232-thumbnail.JPG" alt="" width="720" height="585"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023267.JPG" data-size="2160x1539"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023267-thumbnail.JPG" alt="" width="720" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023269.JPG" data-size="2022x1518"><img loading="lazy" src="https://studiodesign.telecom-paris.fr/media/posts/16/gallery/P1023269-thumbnail.JPG" alt="" width="720" height="541"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
